@@ -1,0 +1,26 @@
+{
+  "name": "Lupe",
+  "description": "CMS gratuito y libre creado por Jesus Magallon basado en Revel/Go",
+  "main": "",
+  "keywords": [
+    "Lupe",
+    "CMS",
+    "Revel",
+    "Go",
+    "Content",
+    "Management",
+    "System"
+  ],
+  "authors": [
+    "Jesus Magallon <magallonj23@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "http://github.com/jesus997/Lupe",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
